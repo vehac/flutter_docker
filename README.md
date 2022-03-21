@@ -8,7 +8,7 @@ El archivo devcontainer.json está configurado para equipos con sistema operativ
 ```bash
 "source=/dev/bus/usb,target=/dev/bus/usb,type=bind"
 ```
-Como requisito en VS Code se debe instalar: [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker/) y [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack/)
+Como requisito en VS Code se debe instalar: [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) y [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
 
 ## Docker
 
